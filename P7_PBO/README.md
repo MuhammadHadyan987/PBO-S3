@@ -53,4 +53,8 @@ Browser mengirim request ke Route. Route meneruskan request ke method pada `Buku
 
 ## Screenshot pengumpulan
 
-Jalankan aplikasi terlebih dahulu, kemudian ambil screenshot halaman `/buku`, `/buku/1`, dan `/rekomendasi/Pemrograman` dari browser untuk melengkapi pengumpulan.
+![buku](output/buku.png)
+
+![detail](output/detail.png)
+
+![kategori](output/kategori.png)
