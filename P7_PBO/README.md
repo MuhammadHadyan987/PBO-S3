@@ -58,3 +58,5 @@ Browser mengirim request ke Route. Route meneruskan request ke method pada `Buku
 ![detail](output/detail.png)
 
 ![kategori](output/kategori.png)
+
+![route](output/route.png)
